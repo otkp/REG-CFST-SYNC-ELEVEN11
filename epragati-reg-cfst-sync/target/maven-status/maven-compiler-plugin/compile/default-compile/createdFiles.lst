@@ -1,0 +1,3 @@
+org\epragati\EpragatiRegSyncApplication.class
+org\epragati\controller\CfstSyncController.class
+org\epragati\scheduler\RegCfstScheduler.class
